@@ -1,16 +1,8 @@
 # text_analytics
 
 Basic computational linguistics and natural language processing in Python.
-
-    pip install textanalytics
     
-    pip install git+https://github.com/jonathandunn/text_analytics.git
-
-This package provides code to support introductory courses in computational linguistics or natural language processing. These courses are available free on edX:
-
-[**Introduction to Text Analytics and Natural Language Processing with Python**](https://www.edx.org/course/introduction-to-text-analytics-with-python)
-
-[**Visualizing Text Analytics and Natural Language Processing with Python**](https://www.edx.org/course/visualizing-text-analytics-with-python)
+    pip install git+https://github.com/maodoanminnh/my_text_analytics.git
 
 ## Usage
 
@@ -72,4 +64,5 @@ This package provides code to support introductory courses in computational ling
 	 
 *Corpus Comparisons*
 	
+
 	similarity = ai.get_corpus_similarity(df1, df2)
